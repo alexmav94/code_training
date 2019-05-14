@@ -1,3 +1,3 @@
 name = 'Alex'
 
-print ('My name is' ,name);
+print 'My name is ' + name
