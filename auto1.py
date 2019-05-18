@@ -1,4 +1,4 @@
-#This program says hello world
+#This program says hello world "This is a comment"
 print ('Hello World')
 print ('What is my name?') #Asking for name
 myName = input()
